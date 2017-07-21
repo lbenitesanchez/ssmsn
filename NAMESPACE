@@ -1,0 +1,4 @@
+importFrom("MCMCpack","rinvgamma")
+importFrom("stats", "rbeta", "rgamma", "rnorm")
+importFrom("stats", "dt", "pnorm", "pt", "pgamma")
+export("rssmsn","dssmsn")

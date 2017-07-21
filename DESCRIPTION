@@ -1,0 +1,14 @@
+Package: ssmsn
+Type: Package
+Title: Scale-Shape Mixtures of Skew-Normal Distributions
+Version: 0.2.0
+Date: 2017-01-31
+Author: Rocio Maehara and Luis Benites
+Maintainer: Luis Benites <lbenitesanchez@gmail.com>
+Imports: MCMCpack
+Description: It provides the density and random number generator for the Scale-Shape Mixtures of Skew-Normal Distributions proposed by Jamalizadeh and Lin (2016) <doi:10.1007/s00180-016-0691-1>.
+License: GPL (>= 2)
+Repository: CRAN
+NeedsCompilation: no
+Packaged: 2017-01-31 13:14:11 UTC; rmaehara
+Date/Publication: 2017-02-01 08:34:50
